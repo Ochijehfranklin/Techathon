@@ -4,6 +4,7 @@ body{
     height: 300%;
     font-family: "Red Hat Display";
    font-weight: 500, 700, 900;
+    overflow: hidden;
 }
 .container{
     display: flex;
